@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: #000000;
+    background-color: #07ACAB;
+}
+
+li {
+    text-decoration: none;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+footer{
+    background-color: #07ACAB;
+}
